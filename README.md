@@ -1,6 +1,6 @@
 # NDVI-Stats: Fast & Interpretable Land Cover Classification
 
-**Short description (for resume):**
+**Short description :**
 Classify land cover types using NDVI time-series data from satellite imagery and OpenStreetMap (OSM) labels. Built a Logistic Regression model robust to noisy NDVI signals.
 
 ## Problem
@@ -45,10 +45,6 @@ NDVI_Project/
    jupyter lab notebooks/NDVI_Stats_Land_Cover_Classification.ipynb
    ```
 3. Reproduce: run cells in order. If required, place a small sample dataset in `data/` with the same columns.
-
-## Future Work
-- Try robust imputation methods or temporal models (e.g., simple RNNs) while keeping explainability.
-- Add cross-validation and confusion matrix visualizations for per-class insights.
 
 ## Contact
 Gaurav Rathi — GitHub: [grrathi-1804](https://github.com/grrathi-1804) — Email: grrathi1804@gmail.com
