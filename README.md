@@ -4,7 +4,7 @@
 Classify land cover types using NDVI time-series data from satellite imagery and OpenStreetMap (OSM) labels. Built a Logistic Regression model robust to noisy NDVI signals.
 
 ## Problem
-This project addresses the Hackathon problem *"NDVI-based Land Cover Classification"*. The goal is to predict land cover classes (Water, Impervious, Farm, Forest, Grass, Orchard) from 27 NDVI time points per sample, despite noise from cloud cover and imperfect OSM labels.
+This project addresses the  problem *"NDVI-based Land Cover Classification"*. The goal is to predict land cover classes (Water, Impervious, Farm, Forest, Grass, Orchard) from 27 NDVI time points per sample, despite noise from cloud cover and imperfect OSM labels.
 
 ## Dataset
 - Each row includes: `ID`, `class` and 27 NDVI time-point columns (e.g., `20150720_N`).
