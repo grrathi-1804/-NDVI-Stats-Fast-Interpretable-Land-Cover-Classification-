@@ -51,4 +51,4 @@ NDVI_Project/
 - Add cross-validation and confusion matrix visualizations for per-class insights.
 
 ## Contact
-Gaurav Rathi — GitHub: [gauravrathi-nitt](https://github.com/gauravrathi-nitt) — Email: gauravrathi@email.com
+Gaurav Rathi — GitHub: [grrathi-1804](https://github.com/grrathi-1804) — Email: grrathi1804@gmail.com
